@@ -40,12 +40,6 @@ The objective is to identify `common security issues`, understand their severity
    - Saved the scan report and key screenshots.
 
 
-## 📷 Screenshots
-> Include screenshots of your scanning process and results here.
-
-![Scan Dashboard Screenshot](screenshots/scan_dashboard.png)
-![Report Screenshot](screenshots/report_sample.png)
-
 ---
 
 ## 📄 Report Files
